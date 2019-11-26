@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaSessieDotNetCore", "PizzaSessieDotNetCore\PizzaSessieDotNetCore.csproj", "{C039EF27-4289-4D5B-9025-07E6AF64DC65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{D3F47494-3538-4016-B545-B221F610CC51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C039EF27-4289-4D5B-9025-07E6AF64DC65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C039EF27-4289-4D5B-9025-07E6AF64DC65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C039EF27-4289-4D5B-9025-07E6AF64DC65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3F47494-3538-4016-B545-B221F610CC51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F47494-3538-4016-B545-B221F610CC51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F47494-3538-4016-B545-B221F610CC51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F47494-3538-4016-B545-B221F610CC51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,8 +6,8 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
-using PizzaSessieDotNetCore.DAL;
-using PizzaSessieDotNetCore.Models;
+using DAL;
+using DAL.Models;
 
 namespace PizzaSessieDotNetCore.Controllers
 {

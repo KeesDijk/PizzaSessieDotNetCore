@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace PizzaSessieDotNetCore.Models
+namespace DAL.Models
 {
     public class Course
     {

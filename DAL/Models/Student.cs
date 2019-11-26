@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace PizzaSessieDotNetCore.Models
+namespace DAL.Models
 {
     public class Student
     {

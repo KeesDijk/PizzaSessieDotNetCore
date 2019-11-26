@@ -1,4 +1,4 @@
-﻿namespace PizzaSessieDotNetCore.Models
+﻿namespace DAL.Models
 {
     public enum Grade
     {

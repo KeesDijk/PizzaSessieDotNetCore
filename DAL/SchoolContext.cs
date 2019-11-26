@@ -1,8 +1,8 @@
 ﻿using System.Data.Entity;
 using System.Data.Entity.ModelConfiguration.Conventions;
-using PizzaSessieDotNetCore.Models;
+using DAL.Models;
 
-namespace PizzaSessieDotNetCore.DAL
+namespace DAL
 {
   
     public class SchoolContext : DbContext
